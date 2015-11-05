@@ -3,9 +3,10 @@
   "version": "4.0.1",
   "description": "An onClickOutside mixin for React components",
   "main": "index.js",
-  "homepage": "https://github.com/Pomax/react-onclickoutside",
+  "homepage": "https://github.com/nwinch/react-onclickoutside",
   "authors": [
-    "Pomax <pomax@nihongoresources.com>"
+    "Pomax <pomax@nihongoresources.com>",
+    "Nathan Winch <nwinch@gmail.com>"
   ],
   "keywords": [
     "react",
@@ -16,9 +17,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pomax/react-onclickoutside.git"
+    "url": "https://github.com/nwinch/react-onclickoutside.git"
   },
   "bugs": {
-    "url": "https://github.com/Pomax/react-onclickoutside/issues"
+    "url": "https://github.com/nwinch/react-onclickoutside/issues"
   }
 }
